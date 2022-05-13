@@ -1,1 +1,3 @@
-I will copy this to the test2.txt
+ - I will copy this to the test2.txt
+nano alr
+Learning how to consistently use git and terminal cmds.
